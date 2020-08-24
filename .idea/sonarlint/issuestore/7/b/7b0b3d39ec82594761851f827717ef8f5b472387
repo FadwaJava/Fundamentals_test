@@ -1,0 +1,27 @@
+
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ξ‚ƒΤÿÿÿÿÿ8ξο„Β.
+S
+java:S3020r"1Pass "new Herbivore[0]" as argument to "toArray".(‘©χΏύÿÿÿÿ8ι±…Β.
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(Ή¦…‡ϊÿÿÿÿ8ι±…Β.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ΆΏ“±ϊÿÿÿÿ8ξο„Β.
+F
+java:S2175I")A "List<Plant>" cannot contain a "String"(ύΚπ8ξο„Β.
+S
+java:S3020l"1Pass "new Carnivore[0]" as argument to "toArray".(¤κΨ–ψÿÿÿÿ8ι±…Β.
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(Άύδ·ÿÿÿÿÿ8‡ζ…Β.
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(Ò³άÒ8ξο„Β.
+I
+java:S1612c",Replace this lambda with a method reference.(Τ„ς 8ΐε½…Β.
+R
+java:S3020x"0Pass "new Omnivore[0]" as argument to "toArray".(Ύÿύϋÿÿÿÿ8ι±…Β.
+O
+java:S3958]"2Refactor the code so this stream pipeline is used.(ώπ®ι8ϊτ¥…Β.
+F
+java:S2175@"*A "List<Animal>" cannot contain a "String"(Θ©υ8ξο„Β.
+O
+java:S3958c"2Refactor the code so this stream pipeline is used.(Τ„ς 8Μ΄Υ…Β.
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(½©™ϊÿÿÿÿ8ξο„Β.
+I
+java:S1612]",Replace this lambda with a method reference.(ώπ®ι8Ό…Β.
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(Κόν8ξο„Β.
+U	java:S106~"9Replace this use of System.out or System.err by a logger.(Ύ†½Κ8ι±…Β.
